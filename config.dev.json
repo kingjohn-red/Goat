@@ -11,17 +11,17 @@
   },
   "antiInbox": false,
   "language": "en",
-  "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "BOT NICKNAME",
-  "prefix": "PREFIX HERE",
+  "notesLanguage": "en",
+  "nickNameBot": "XREO'AN INT.",
+  "prefix": "$",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": [100086928967994],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [],
+    "whiteListIds": [100086928967994],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
   "whiteListModeThread": {
